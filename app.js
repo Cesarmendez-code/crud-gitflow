@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function readUsers() {
     console.log("Mostrando usuarios");
 }
@@ -9,3 +10,8 @@ function deleteUser() {
 }
 console.log("Error corregido");
 console.log("prueba");
+=======
+function createUser(name) {
+    console.log("Usuario creado:", name);
+}
+>>>>>>> 53ca581212e6336f93f907015ba55e1766b20679
